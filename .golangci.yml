@@ -1,0 +1,22 @@
+linters:
+  enable-all: true
+  disable:
+    - wrapcheck
+    - varnamelen
+    - tenv
+    - nonamedreturns
+    - gochecknoglobals
+    - depguard
+linters-settings:
+  gci:
+    sections:
+      - standard
+      - default
+      - dot
+      - alias
+      - localmodule
+issues:
+  exclude-rules:
+    - path: '(.+)_test\.go'
+      linters:
+        - revive
