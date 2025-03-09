@@ -1,4 +1,4 @@
-# hexdump [![Build Status](https://github.com/flier/hexdump/workflows/ci/badge.svg)](https://github.com/flier/hexdump/actions) [![Document](https://pkg.go.dev/badge/github.com/flier/hexdump)](https://pkg.go.dev/github.com/flier/hexdump) [![License](https://img.shields.io/github/license/flier/hexdump)](/LICENSE) [![Release](https://img.shields.io/github/release/flier/hexdump.svg)](https://github.com/flier/hexdump/releases/latest)
+# hexdump [![build](https://github.com/flier/hexdump/actions/workflows/ci.yml/badge.svg)](https://github.com/flier/hexdump/actions/workflows/ci.yml) [![Document](https://pkg.go.dev/badge/github.com/flier/hexdump)](https://pkg.go.dev/github.com/flier/hexdump) [![License](https://img.shields.io/github/license/flier/hexdump)](/LICENSE) [![Release](https://img.shields.io/github/release/flier/hexdump.svg)](https://github.com/flier/hexdump/releases/latest)
 
 Dump binary content as an ASCII table in Golang.
 
